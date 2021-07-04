@@ -10,5 +10,6 @@ public class HelloTest {
     @Test
     void hello(){
         System.out.println("hello");
+        System.out.println("创建分支");
     }
 }
